@@ -1,0 +1,344 @@
+{
+  "version": "2.0",
+  "last_updated": "2026-10-31",
+  "total_planned": 262,
+  "destinations": [
+    {
+      "slug": "hanoi",
+      "name_en": "Hanoi",
+      "name_vi": "Hà Nội",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1987,
+      "word_count_vi": 2215,
+      "attractions": [
+        {"slug": "hanoi-old-quarter", "name_en": "Hanoi Old Quarter", "name_vi": "Phố cổ Hà Nội", "status": "pending", "tier": 1},
+        {"slug": "hoan-kiem-lake", "name_en": "Hoan Kiem Lake", "name_vi": "Hồ Hoàn Kiếm", "status": "pending", "tier": 1},
+        {"slug": "temple-of-literature", "name_en": "Temple of Literature", "name_vi": "Văn Miếu - Quốc Tử Giám", "status": "pending", "tier": 1},
+        {"slug": "west-lake", "name_en": "West Lake", "name_vi": "Hồ Tây", "status": "pending", "tier": 2},
+        {"slug": "train-street", "name_en": "Hanoi Train Street", "name_vi": "Phố tàu Hà Nội", "status": "pending", "tier": 2},
+        {"slug": "bat-trang-pottery", "name_en": "Bat Trang Pottery Village", "name_vi": "Làng gốm Bát Tràng", "status": "pending", "tier": 2},
+        {"slug": "ethnology-museum", "name_en": "Vietnam Museum of Ethnology", "name_vi": "Bảo tàng Dân tộc học", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "ha-long-bay",
+      "name_en": "Ha Long Bay",
+      "name_vi": "Vịnh Hạ Long",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1637,
+      "word_count_vi": 1894,
+      "attractions": [
+        {"slug": "sung-sot-cave", "name_en": "Sung Sot Cave", "name_vi": "Hang Sửng Sốt", "status": "pending", "tier": 1},
+        {"slug": "ti-top-island", "name_en": "Ti Top Island", "name_vi": "Đảo Ti Tốp", "status": "pending", "tier": 1},
+        {"slug": "bai-tu-long-bay", "name_en": "Bai Tu Long Bay", "name_vi": "Vịnh Bái Tử Long", "status": "pending", "tier": 1},
+        {"slug": "cat-ba-national-park", "name_en": "Cat Ba National Park", "name_vi": "Vườn Quốc gia Cát Bà", "status": "pending", "tier": 2},
+        {"slug": "lan-ha-bay", "name_en": "Lan Ha Bay", "name_vi": "Vịnh Lan Hạ", "status": "pending", "tier": 2},
+        {"slug": "cong-dam-fishing-village", "name_en": "Cong Dam Fishing Village", "name_vi": "Làng chài Cống Đám", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "hoi-an",
+      "name_en": "Hoi An",
+      "name_vi": "Hội An",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1813,
+      "word_count_vi": 1999,
+      "attractions": [
+        {"slug": "hoi-an-ancient-town", "name_en": "Hoi An Ancient Town", "name_vi": "Phố cổ Hội An", "status": "pending", "tier": 1},
+        {"slug": "japanese-covered-bridge", "name_en": "Japanese Covered Bridge", "name_vi": "Chùa Cầu", "status": "pending", "tier": 1},
+        {"slug": "hoi-an-lantern-festival", "name_en": "Hoi An Lantern Festival", "name_vi": "Lễ hội đèn lồng Hội An", "status": "pending", "tier": 1},
+        {"slug": "an-bang-beach", "name_en": "An Bang Beach", "name_vi": "Bãi biển An Bàng", "status": "pending", "tier": 2},
+        {"slug": "thu-bon-river", "name_en": "Thu Bon River", "name_vi": "Sông Thu Bồn", "status": "pending", "tier": 2},
+        {"slug": "my-son-sanctuary", "name_en": "My Son Sanctuary", "name_vi": "Thánh địa Mỹ Sơn", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "ho-chi-minh-city",
+      "name_en": "Ho Chi Minh City",
+      "name_vi": "TP. Hồ Chí Minh",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1765,
+      "word_count_vi": 2006,
+      "attractions": [
+        {"slug": "war-remnants-museum", "name_en": "War Remnants Museum", "name_vi": "Bảo tàng Chứng tích Chiến tranh", "status": "pending", "tier": 1},
+        {"slug": "cu-chi-tunnels", "name_en": "Cu Chi Tunnels", "name_vi": "Địa đạo Củ Chi", "status": "pending", "tier": 1},
+        {"slug": "ben-thanh-market", "name_en": "Ben Thanh Market", "name_vi": "Chợ Bến Thành", "status": "pending", "tier": 1},
+        {"slug": "independence-palace", "name_en": "Independence Palace", "name_vi": "Dinh Độc Lập", "status": "pending", "tier": 2},
+        {"slug": "nguyen-hue-walking-street", "name_en": "Nguyen Hue Walking Street", "name_vi": "Phố đi bộ Nguyễn Huệ", "status": "pending", "tier": 2},
+        {"slug": "saigon-notre-dame", "name_en": "Notre-Dame Cathedral Basilica of Saigon", "name_vi": "Nhà thờ Đức Bà Sài Gòn", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "sapa",
+      "name_en": "Sapa",
+      "name_vi": "Sa Pa",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 2279,
+      "word_count_vi": 2436,
+      "attractions": [
+        {"slug": "fansipan-mountain", "name_en": "Fansipan Mountain", "name_vi": "Đỉnh Fansipan", "status": "pending", "tier": 1},
+        {"slug": "muong-hoa-valley", "name_en": "Muong Hoa Valley", "name_vi": "Thung lũng Mường Hoa", "status": "pending", "tier": 1},
+        {"slug": "cat-cat-village", "name_en": "Cat Cat Village", "name_vi": "Bản Cát Cát", "status": "pending", "tier": 1},
+        {"slug": "bac-ha-market", "name_en": "Bac Ha Market", "name_vi": "Chợ Bắc Hà", "status": "pending", "tier": 2},
+        {"slug": "ta-van-village", "name_en": "Ta Van Village", "name_vi": "Bản Tả Van", "status": "pending", "tier": 2},
+        {"slug": "silver-waterfall", "name_en": "Silver Waterfall", "name_vi": "Thác Bạc", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "da-nang",
+      "name_en": "Da Nang",
+      "name_vi": "Đà Nẵng",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1583,
+      "word_count_vi": 1671,
+      "attractions": [
+        {"slug": "ba-na-hills", "name_en": "Ba Na Hills", "name_vi": "Bà Nà Hills", "status": "pending", "tier": 1},
+        {"slug": "marble-mountains", "name_en": "Marble Mountains", "name_vi": "Ngũ Hành Sơn", "status": "pending", "tier": 1},
+        {"slug": "dragon-bridge", "name_en": "Dragon Bridge", "name_vi": "Cầu Rồng", "status": "pending", "tier": 1},
+        {"slug": "my-khe-beach", "name_en": "My Khe Beach", "name_vi": "Bãi biển Mỹ Khê", "status": "pending", "tier": 2},
+        {"slug": "son-tra-peninsula", "name_en": "Son Tra Peninsula", "name_vi": "Bán đảo Sơn Trà", "status": "pending", "tier": 2},
+        {"slug": "han-river-bridge", "name_en": "Han River Bridge", "name_vi": "Cầu Sông Hàn", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "nha-trang",
+      "name_en": "Nha Trang",
+      "name_vi": "Nha Trang",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1837,
+      "word_count_vi": 2013,
+      "attractions": [
+        {"slug": "vinpearl-land", "name_en": "VinWonders Nha Trang", "name_vi": "VinWonders Nha Trang", "status": "pending", "tier": 1},
+        {"slug": "po-nagar-cham-towers", "name_en": "Po Nagar Cham Towers", "name_vi": "Tháp Bà Ponagar", "status": "pending", "tier": 1},
+        {"slug": "nha-trang-beach", "name_en": "Nha Trang Beach", "name_vi": "Bãi biển Nha Trang", "status": "pending", "tier": 1},
+        {"slug": "hon-mun-island", "name_en": "Hon Mun Island", "name_vi": "Đảo Hòn Mun", "status": "pending", "tier": 2},
+        {"slug": "hon-tre-island", "name_en": "Hon Tre Island", "name_vi": "Đảo Hòn Tre", "status": "pending", "tier": 2},
+        {"slug": "long-son-pagoda", "name_en": "Long Son Pagoda", "name_vi": "Chùa Long Sơn", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "mekong-phuquoc",
+      "name_en": "Mekong Delta & Phu Quoc",
+      "name_vi": "Đồng bằng sông Cửu Long & Phú Quốc",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1878,
+      "word_count_vi": 1962,
+      "attractions": [
+        {"slug": "cai-rang-floating-market", "name_en": "Cai Rang Floating Market", "name_vi": "Chợ nổi Cái Răng", "status": "pending", "tier": 1},
+        {"slug": "phu-quoc-beaches", "name_en": "Phu Quoc Beaches", "name_vi": "Bãi biển Phú Quốc", "status": "pending", "tier": 1},
+        {"slug": "phu-quoc-national-park", "name_en": "Phu Quoc National Park", "name_vi": "Vườn Quốc gia Phú Quốc", "status": "pending", "tier": 1},
+        {"slug": "hon-thom-cable-car", "name_en": "Hon Thom Cable Car", "name_vi": "Cáp treo Hòn Thơm", "status": "pending", "tier": 2},
+        {"slug": "vinpearl-safari", "name_en": "Vinpearl Safari Phu Quoc", "name_vi": "Vinpearl Safari Phú Quốc", "status": "pending", "tier": 2},
+        {"slug": "tranh-stream", "name_en": "Tranh Stream", "name_vi": "Suối Tranh", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "da-lat",
+      "name_en": "Da Lat",
+      "name_vi": "Đà Lạt",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1540,
+      "word_count_vi": 1832,
+      "attractions": [
+        {"slug": "xuan-huong-lake", "name_en": "Xuan Huong Lake", "name_vi": "Hồ Xuân Hương", "status": "pending", "tier": 1},
+        {"slug": "valley-of-love", "name_en": "Valley of Love", "name_vi": "Thung lũng Tình Yêu", "status": "pending", "tier": 1},
+        {"slug": "dala-waterfall", "name_en": "Datanla Waterfall", "name_vi": "Thác Datanla", "status": "pending", "tier": 1},
+        {"slug": "langbiang-mountain", "name_en": "Langbiang Mountain", "name_vi": "Núi Langbiang", "status": "pending", "tier": 2},
+        {"slug": "crazy-house", "name_en": "Crazy House", "name_vi": "Nhà điên", "status": "pending", "tier": 2},
+        {"slug": "da-lat-night-market", "name_en": "Da Lat Night Market", "name_vi": "Chợ đêm Đà Lạt", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "ninh-binh",
+      "name_en": "Ninh Binh",
+      "name_vi": "Ninh Bình",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1698,
+      "word_count_vi": 1872,
+      "attractions": [
+        {"slug": "trang-an", "name_en": "Trang An Landscape Complex", "name_vi": "Quần thể danh thắng Tràng An", "status": "pending", "tier": 1},
+        {"slug": "tam-coc", "name_en": "Tam Coc", "name_vi": "Tam Cốc", "status": "pending", "tier": 1},
+        {"slug": "hang-mua", "name_en": "Mua Cave (Hang Mua)", "name_vi": "Hang Múa", "status": "pending", "tier": 1},
+        {"slug": "bai-dinh-pagoda", "name_en": "Bai Dinh Pagoda", "name_vi": "Chùa Bái Đính", "status": "pending", "tier": 2},
+        {"slug": "cuc-phuong-national-park", "name_en": "Cuc Phuong National Park", "name_vi": "Vườn Quốc gia Cúc Phương", "status": "pending", "tier": 2},
+        {"slug": "hoi-an-village", "name_en": "Hoi An Village", "name_vi": "Làng Hoa Lu", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "hue",
+      "name_en": "Hue",
+      "name_vi": "Huế",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1723,
+      "word_count_vi": 1815,
+      "attractions": [
+        {"slug": "imperial-city", "name_en": "Imperial City (Dai Noi)", "name_vi": "Đại Nội Huế", "status": "pending", "tier": 1},
+        {"slug": "thien-mu-pagoda", "name_en": "Thien Mu Pagoda", "name_vi": "Chùa Thiên Mụ", "status": "pending", "tier": 1},
+        {"slug": "khuyen-tomb", "name_en": "Tomb of Khai Dinh", "name_vi": "Lăng Khải Định", "status": "pending", "tier": 1},
+        {"slug": "perfume-river", "name_en": "Perfume River", "name_vi": "Sông Hương", "status": "pending", "tier": 2},
+        {"slug": "lang-co-beach", "name_en": "Lang Co Beach", "name_vi": "Bãi biển Lăng Cô", "status": "pending", "tier": 2},
+        {"slug": "bach-ma-national-park", "name_en": "Bach Ma National Park", "name_vi": "Vườn Quốc gia Bạch Mã", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "phong-nha",
+      "name_en": "Phong Nha",
+      "name_vi": "Phong Nha",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1547,
+      "word_count_vi": 1820,
+      "attractions": [
+        {"slug": "phong-nha-cave", "name_en": "Phong Nha Cave", "name_vi": "Động Phong Nha", "status": "pending", "tier": 1},
+        {"slug": "son-doong-cave", "name_en": "Son Doong Cave", "name_vi": "Hang Sơn Đoòng", "status": "pending", "tier": 1},
+        {"slug": "paradise-cave", "name_en": "Paradise Cave", "name_vi": "Động Thiên Đường", "status": "pending", "tier": 1},
+        {"slug": "dark-cave", "name_en": "Dark Cave", "name_vi": "Hang Tối", "status": "pending", "tier": 2},
+        {"slug": "tu-lan-caves", "name_en": "Tu Lan Caves", "name_vi": "Hang Tú Làn", "status": "pending", "tier": 2},
+        {"slug": "mooc-spring", "name_en": "Mooc Spring", "name_vi": "Suối Nước Moọc", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "cat-ba",
+      "name_en": "Cat Ba",
+      "name_vi": "Cát Bà",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1509,
+      "word_count_vi": 1691,
+      "attractions": [
+        {"slug": "cat-ba-national-park", "name_en": "Cat Ba National Park", "name_vi": "Vườn Quốc gia Cát Bà", "status": "pending", "tier": 1},
+        {"slug": "lan-ha-bay-cat-ba", "name_en": "Lan Ha Bay", "name_vi": "Vịnh Lan Hạ", "status": "pending", "tier": 1},
+        {"slug": "hospital-cave", "name_en": "Hospital Cave", "name_vi": "Hang Quân y", "status": "pending", "tier": 2},
+        {"slug": "cat-co-beach", "name_en": "Cat Co Beach", "name_vi": "Bãi Cát Cò", "status": "pending", "tier": 2},
+        {"slug": "monkey-island", "name_en": "Monkey Island", "name_vi": "Đảo Khỉ", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "mui-ne",
+      "name_en": "Mui Ne",
+      "name_vi": "Mũi Né",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1859,
+      "word_count_vi": 2021,
+      "attractions": [
+        {"slug": "white-sand-dunes", "name_en": "White Sand Dunes", "name_vi": "Đồi cát trắng", "status": "pending", "tier": 1},
+        {"slug": "red-sand-dunes", "name_en": "Red Sand Dunes", "name_vi": "Đồi cát đỏ", "status": "pending", "tier": 1},
+        {"slug": "fairy-stream", "name_en": "Fairy Stream", "name_vi": "Suối Tiên", "status": "pending", "tier": 1},
+        {"slug": "ke-ga-lighthouse", "name_en": "Ke Ga Lighthouse", "name_vi": "Hải đăng Kê Gà", "status": "pending", "tier": 2},
+        {"slug": "fishing-village", "name_en": "Mui Ne Fishing Village", "name_vi": "Làng chài Mũi Né", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "con-dao",
+      "name_en": "Con Dao",
+      "name_vi": "Côn Đảo",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1612,
+      "word_count_vi": 1948,
+      "attractions": [
+        {"slug": "con-dao-prison", "name_en": "Con Dao Prison", "name_vi": "Nhà tù Côn Đảo", "status": "pending", "tier": 1},
+        {"slug": "dam-trau-beach", "name_en": "Dam Trau Beach", "name_vi": "Bãi Đầm Trầu", "status": "pending", "tier": 1},
+        {"slug": "hon-bay-can", "name_en": "Hon Bay Can", "name_vi": "Hòn Bảy Cạnh", "status": "pending", "tier": 2},
+        {"slug": "con-dao-national-park", "name_en": "Con Dao National Park", "name_vi": "Vườn Quốc gia Côn Đảo", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "pu-luong",
+      "name_en": "Pu Luong",
+      "name_vi": "Pù Luông",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1492,
+      "word_count_vi": 1682,
+      "attractions": [
+        {"slug": "don-village", "name_en": "Don Village", "name_vi": "Bản Đôn", "status": "pending", "tier": 1},
+        {"slug": "hieu-waterfall", "name_en": "Hieu Waterfall", "name_vi": "Thác Hiêu", "status": "pending", "tier": 1},
+        {"slug": "kho-muong-village", "name_en": "Kho Muong Village", "name_vi": "Bản Kho Mường", "status": "pending", "tier": 2},
+        {"slug": "bamboo-waterwheels", "name_en": "Bamboo Waterwheels", "name_vi": "Guồng nước bương", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "mai-chau",
+      "name_en": "Mai Chau",
+      "name_vi": "Mai Châu",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1515,
+      "word_count_vi": 1701,
+      "attractions": [
+        {"slug": "lac-village", "name_en": "Lac Village", "name_vi": "Bản Lác", "status": "pending", "tier": 1},
+        {"slug": "pom-coong-village", "name_en": "Pom Coong Village", "name_vi": "Bản Pom Coọng", "status": "pending", "tier": 1},
+        {"slug": "thung-khe-pass", "name_en": "Thung Khe Pass", "name_vi": "Đèo Thung Khe", "status": "pending", "tier": 2},
+        {"slug": "mai-chau-valley", "name_en": "Mai Chau Valley", "name_vi": "Thung lũng Mai Châu", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "quy-nhon",
+      "name_en": "Quy Nhon",
+      "name_vi": "Quy Nhơn",
+      "lang_pair": ["en", "vi"],
+      "status": "done",
+      "word_count_en": 1532,
+      "word_count_vi": 1683,
+      "attractions": [
+        {"slug": "eo-gio", "name_en": "Eo Gio", "name_vi": "Eo Gió", "status": "pending", "tier": 1},
+        {"slug": "ky-co-beach", "name_en": "Ky Co Beach", "name_vi": "Bãi biển Kỳ Co", "status": "pending", "tier": 1},
+        {"slug": "ghenh-rang", "name_en": "Ghenh Rang", "name_vi": "Ghềnh Ráng", "status": "pending", "tier": 1},
+        {"slug": "thap-doi", "name_en": "Thap Doi Cham Towers", "name_vi": "Tháp Đôi", "status": "pending", "tier": 2},
+        {"slug": "hon-kho-island", "name_en": "Hon Kho Island", "name_vi": "Đảo Hòn Khô", "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "ha-giang-loop",
+      "name_en": "Ha Giang Loop",
+      "name_vi": null,
+      "lang_pair": ["en"],
+      "status": "done",
+      "word_count_en": 1876,
+      "word_count_vi": null,
+      "attractions": [
+        {"slug": "ma-pi-leng-pass", "name_en": "Ma Pi Leng Pass", "name_vi": "Đèo Mã Pí Lèng", "status": "pending", "tier": 1},
+        {"slug": "dong-van-karst-plateau", "name_en": "Dong Van Karst Plateau", "name_vi": "Cao nguyên đá Đồng Văn", "status": "pending", "tier": 1},
+        {"slug": "lung-cu-flag-tower", "name_en": "Lung Cu Flag Tower", "name_vi": "Cột cờ Lũng Cú", "status": "pending", "tier": 1},
+        {"slug": "meo-vac", "name_en": "Meo Vac", "name_vi": "Mèo Vạc", "status": "pending", "tier": 2},
+        {"slug": "ha-giang-nature-culture", "name_en": "Ha Giang Nature & Culture", "name_vi": null, "status": "pending", "tier": 2}
+      ]
+    },
+    {
+      "slug": "ha-giang-nature",
+      "name_en": "Ha Giang Nature & Culture",
+      "name_vi": null,
+      "lang_pair": ["en"],
+      "status": "done",
+      "word_count_en": 1740,
+      "word_count_vi": null,
+      "attractions": [
+        {"slug": "ha-giang-ethnic-villages", "name_en": "Ha Giang Ethnic Villages", "name_vi": "Bản làng dân tộc Hà Giang", "status": "pending", "tier": 2},
+        {"slug": "ha-giang-rice-terraces", "name_en": "Ha Giang Rice Terraces", "name_vi": "Ruộng bậc thang Hà Giang", "status": "pending", "tier": 2}
+      ]
+    }
+  ],
+  "summary": {
+    "destinations_done_en": 20,
+    "destinations_done_vi": 18,
+    "attractions_total": 122,
+    "attractions_pending_en": 122,
+    "attractions_pending_vi": 120,
+    "total_articles_target": 262,
+    "total_articles_done": 38,
+    "total_articles_pending": 224
+  }
+}
