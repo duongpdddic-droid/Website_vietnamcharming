@@ -138,14 +138,14 @@
           "slug": "hoi-an-ancient-town",
           "name_en": "Hoi An Ancient Town",
           "name_vi": "Phố cổ Hội An",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
           "slug": "japanese-covered-bridge",
           "name_en": "Japanese Covered Bridge",
           "name_vi": "Chùa Cầu",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
@@ -201,14 +201,14 @@
           "slug": "cu-chi-tunnels",
           "name_en": "Cu Chi Tunnels",
           "name_vi": "Địa đạo Củ Chi",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
           "slug": "ben-thanh-market",
           "name_en": "Ben Thanh Market",
           "name_vi": "Chợ Bến Thành",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
@@ -250,7 +250,7 @@
           "slug": "fansipan-mountain",
           "name_en": "Fansipan Mountain",
           "name_vi": "Đỉnh Fansipan",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
@@ -1035,10 +1035,10 @@
     "destinations_done_en": 20,
     "destinations_done_vi": 18,
     "attractions_total": 122,
-    "attractions_pending_en": 102,
+    "attractions_pending_en": 97,
     "attractions_pending_vi": 120,
     "total_articles_target": 262,
-    "total_articles_done": 43,
-    "total_articles_pending": 219
+    "total_articles_done": 48,
+    "total_articles_pending": 214
   }
 }
