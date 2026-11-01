@@ -194,7 +194,7 @@
           "slug": "war-remnants-museum",
           "name_en": "War Remnants Museum",
           "name_vi": "Bảo tàng Chứng tích Chiến tranh",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
@@ -257,14 +257,14 @@
           "slug": "muong-hoa-valley",
           "name_en": "Muong Hoa Valley",
           "name_vi": "Thung lũng Mường Hoa",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
           "slug": "cat-cat-village",
           "name_en": "Cat Cat Village",
           "name_vi": "Bản Cát Cát",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
@@ -306,14 +306,14 @@
           "slug": "ba-na-hills",
           "name_en": "Ba Na Hills",
           "name_vi": "Bà Nà Hills",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
           "slug": "marble-mountains",
           "name_en": "Marble Mountains",
           "name_vi": "Ngũ Hành Sơn",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
@@ -1035,10 +1035,10 @@
     "destinations_done_en": 20,
     "destinations_done_vi": 18,
     "attractions_total": 122,
-    "attractions_pending_en": 97,
+    "attractions_pending_en": 92,
     "attractions_pending_vi": 120,
     "total_articles_target": 262,
-    "total_articles_done": 48,
-    "total_articles_pending": 214
+    "total_articles_done": 53,
+    "total_articles_pending": 209
   }
 }
