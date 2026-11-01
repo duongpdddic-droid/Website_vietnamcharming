@@ -320,7 +320,7 @@
           "slug": "dragon-bridge",
           "name_en": "Dragon Bridge",
           "name_vi": "Cầu Rồng",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
@@ -362,21 +362,21 @@
           "slug": "vinpearl-land",
           "name_en": "VinWonders Nha Trang",
           "name_vi": "VinWonders Nha Trang",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
           "slug": "po-nagar-cham-towers",
           "name_en": "Po Nagar Cham Towers",
           "name_vi": "Tháp Bà Ponagar",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
           "slug": "nha-trang-beach",
           "name_en": "Nha Trang Beach",
           "name_vi": "Bãi biển Nha Trang",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
@@ -418,7 +418,7 @@
           "slug": "cai-rang-floating-market",
           "name_en": "Cai Rang Floating Market",
           "name_vi": "Chợ nổi Cái Răng",
-          "status": "pending",
+          "status": "done",
           "tier": 1
         },
         {
@@ -1035,10 +1035,10 @@
     "destinations_done_en": 20,
     "destinations_done_vi": 18,
     "attractions_total": 122,
-    "attractions_pending_en": 92,
+    "attractions_pending_en": 87,
     "attractions_pending_vi": 120,
     "total_articles_target": 262,
-    "total_articles_done": 53,
-    "total_articles_pending": 209
+    "total_articles_done": 58,
+    "total_articles_pending": 204
   }
 }
